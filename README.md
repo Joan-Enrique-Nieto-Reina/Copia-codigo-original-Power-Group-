@@ -1,4 +1,4 @@
-Power Group Web / Productos y servicios – Versión 1.0
+# Power Group Web / Productos y servicios – Versión 1.0
 Este repositorio contiene el código fuente correspondiente a la página web oficial de Power Group, marca gamer de Compuoriente Import And Expor Ltda, propietaria de todos los derechos sobre su contenido, diseño y estructura.
 
 📦 Estado del proyecto
